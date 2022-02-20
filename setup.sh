@@ -11,3 +11,4 @@ apt install wget curl nano fish -y
 chmod +x *
 rm setup.sh
 echo Installed SS insgram spam tool
+echo run commonds is  : ./run.sh or bash run.sh
