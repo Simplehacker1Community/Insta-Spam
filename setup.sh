@@ -8,3 +8,6 @@ pip install python-dotenv
 pip install instaspam2
 clear
 apt install wget curl nano fish -y
+chmod +x *
+rm setup.sh
+echo Installed SS insgram spam tool
